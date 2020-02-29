@@ -2,16 +2,15 @@
 б) Задача. Визначити середній бал оцінок з усіх предметів, і вивести відомості про
 студентів, середній бал яких складає більше 75б. Поля структури: Прізвище, Група,
 Фізика, Алгоритмізація та програмування, Вища математика.
-Barbak Vladuslav 122V
 """
 while True:
-    data = [{'Mysorov': 'Vlad', 'Група': '122V', 'Physics': 85, 'Algorithmization and programming': 99,
+    data = [{'Mysorov': 'Screentolik', 'Група': '122G', 'Physics': 85, 'Algorithmization and programming': 99,
              'Higher mathematics': 95},
-            {'Torchkov': 'Petro', 'Група': '122V', 'Physics': 53, 'Algorithmization and programming': 75,
+            {'Torchkov': 'Pedros', 'Група': '122G', 'Physics': 53, 'Algorithmization and programming': 75,
              'Higher mathematics': 77},
-            {'Kruvorychko': 'Zahar', 'Група': '122V', 'Physics': 80, 'Algorithmization and programming': 67,
+            {'Kruvorychko': 'Panas', 'Група': '122G', 'Physics': 80, 'Algorithmization and programming': 67,
              'Higher mathematics': 82},
-            {'Sedov': 'Ivan', 'Група': '122V', 'Physics': 68, 'Algorithmization and programming': 77,
+            {'Hrupluviy': 'Ivan', 'Група': '122G', 'Physics': 68, 'Algorithmization and programming': 77,
              'Higher mathematics': 90},
             ]
     output = []
